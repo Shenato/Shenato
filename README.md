@@ -5,6 +5,9 @@ I'm Omar, a software developer of humble origins, who holds a fierce love for pr
 Currently, I'm working on taking Esports from offline to online at [G-loot](https://company.gloot.com) on our product [GLL](https://play.gll.gg).
 
 Self-development is my jam 😎; I live for the satisfaction given by overcoming and understanding problems of all magnitudes — be it a towering colossus in a game or a riddle in code. And above all, to remain modest and target-oriented while doing so!
+
+![Shenato's github stats](https://github-readme-stats.vercel.app/api?username=Shenato&show_icons=true&theme=material-palenight)
+
 <!--
 **Shenato/Shenato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
