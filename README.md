@@ -54,11 +54,16 @@ Self-development is my jam 😎; I live for the satisfaction given by overcoming
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenato&layout=compact&hide=html&theme=material-palenight" alt="shenato" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Shenato&show_icons=true&theme=material-palenight" alt="shenato" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shenato&show_icons=true&theme=material-palenight" alt="shenato" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenato&layout=compact&hide=html&theme=material-palenight" alt="shenato" />
+</p>
+
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=shenato&repo=react-i18n-manager&theme=material-palenight" alt="shenato"> 
 </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/omar-elgaml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omar-elgaml" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/8581902/omar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8581902/omar" height="30" width="30" /></a>
 </p>
+
