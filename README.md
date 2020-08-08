@@ -52,10 +52,11 @@ Self-development is my jam 😎; I live for the satisfaction given by overcoming
   />
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
 </p>
-
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenato&layout=compact&hide=html&theme=material-palenight" alt="shenato" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shenato&show_icons=true&theme=material-palenight" alt="shenato" />
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/omar-elgaml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omar-elgaml" height="30" width="30" /></a>
