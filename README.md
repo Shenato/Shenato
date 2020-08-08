@@ -54,7 +54,7 @@ Self-development is my jam 😎; I live for the satisfaction given by overcoming
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shenato&show_icons=true&theme=material-palenight" alt="shenato" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shenato&show_icons=true&include_all_commits=true&theme=material-palenight" alt="shenato" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenato&layout=compact&hide=html&theme=material-palenight" alt="shenato" />
 </p>
 
