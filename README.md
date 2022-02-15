@@ -13,44 +13,27 @@ Self-development is my jam 😎; I live for the satisfaction given by overcoming
 
 - ⚡ Fun fact **My lastname translates to "The Camel" in English 🐪**
 <p align="left">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-    alt="react"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"
-    alt="redux"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg"
-    alt="webpack"
-    width="40"
-    height="40"
-  />
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
-    alt="express"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb"
-    width="40"
-    height="40"
-  />
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white" /> 
+  <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-A088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+  <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img alt="Contentful" src="https://img.shields.io/badge/-Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white" />
 </p>
 
 <p align="center">
