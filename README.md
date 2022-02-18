@@ -3,7 +3,7 @@
 
 Self-development is my jam 😎; I live for the satisfaction given by overcoming and understanding problems of all magnitudes — be it a towering colossus in a game or a riddle in code. And above all, to remain modest and target-oriented while doing so!
 
-- 🔭 Currently, I'm working on **taking Esports from offline to online at [G-loot](https://company.gloot.com) on our product [GLL](https://play.gll.gg)**
+- 🔭 Currently, I'm working on **Release process, Automations and CI/CD pipelines to improve developer experience on the [Stellaris](https://store.steampowered.com/app/281990/Stellaris/) team at [Paradox Interactive](paradoxinteractive.com)**
 
 - 🌱 I’m currently learning more about **Frontend App Architecture, DevOps and Backend Development**
 
