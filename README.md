@@ -42,7 +42,7 @@ Self-development is my jam 😎; I live for the satisfaction given by overcoming
 </p>
 
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=shenato&repo=react-tournament-brackets&theme=material-palenight" alt="shenato"> 
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=g-loot&repo=react-tournament-brackets&theme=material-palenight" alt="shenato"> 
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=shenato&repo=react-i18n-manager&theme=material-palenight" alt="shenato"> 
 </p>
 
