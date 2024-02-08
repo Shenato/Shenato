@@ -7,7 +7,7 @@ Self-development is my jam 😎; I live for the satisfaction given by overcoming
 
 - 🌱 I’m currently learning more about **Frontend App Architecture, DevOps and Backend Development**
 
-- 💬 Ask me about **Localization, Github Actions, React Hooks and Any JavaScript questions you might have**
+- 💬 Ask me about **Localization, Github Actions, React Hooks and any JavaScript questions you might have**
 
 - 📝 I write articles on [shenato.com](https://www.shenato.com)
 
