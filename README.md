@@ -3,7 +3,7 @@
 
 Self-development is my jam 😎; I live for the satisfaction given by overcoming and understanding problems of all magnitudes — be it a towering colossus in a game or a riddle in code. And above all, to remain modest and target-oriented while doing so!
 
-- 🔭 Currently, I'm working on **Building the internal Design System for Minecraft Bedrock's UI at [Mojang Studios](https://www.minecraft.net/)**
+- 🔭 Currently, I'm working on **Building the UI Framework & Design System for Minecraft Bedrock at [Mojang Studios](https://www.minecraft.net/)**
 
 - 🌱 I’m currently learning more about **Frontend App Architecture, DevOps and Backend Development**
 
