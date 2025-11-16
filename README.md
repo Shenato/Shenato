@@ -11,7 +11,7 @@ Self-development is my jam 😎; I live for the satisfaction given by overcoming
 
 - 📝 I write articles on [shenato.com](https://www.shenato.com)
 
-- ⚡ Fun fact **My lastname translates to "The Camel" in English 🐪**
+- ⚡ Fun fact: **My lastname translates to "The Camel" in English 🐪**
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
